@@ -1,2 +1,2 @@
 # Deep-Learning---Quiz-02
-Roll No: 2023-SE-08      Receipt Detection
+Receipt Detection Roll No: 2023-SE-08   Session:2023-27
